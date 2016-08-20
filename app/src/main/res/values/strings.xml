@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project_IMEI_Neri</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadastreseaqui"><u>Cadastre-se aqui</u></string>
+    <string name="title_activity_cadastro_login">CadastroLoginActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_cadastra">CadastraActivity</string>
+    <string name="confrime_title">Confirme a informações e clique em Salvar</string>
+    <string name="emailConfirme">Email:</string>
+    <string name="dataConfirme">Data:</string>
+    <string name="sexoConfirme">Sexo:</string>
+    <string name="imeiConfirme">IMEI:</string>
+    <string name="imsiConfirme">IMSI:</string>
+    <string name="modeloConfirme">Modelo:</string>
+    <string name="operadoraConfirme">Operadora:</string>
+</resources>
